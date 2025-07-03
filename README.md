@@ -1,3 +1,35 @@
-• Developed a secure user registration and login system, enabling different roles such as admins, team managers, and players.    
-• Created interfaces for administrators to manage tournaments, including adding teams, scheduling matches, and updating results.    
-• Skills Used: HTML, CSS, JavaScript, PHP, MySQL
+# 🏆 Sports Tournament Management System
+
+
+
+## 📌 Overview
+
+A **web-based sports tournament management system** that streamlines user registration, login, and match scheduling. Designed to accommodate multiple user roles like **admins**, **team managers**, and **players**, ensuring role-specific access and functionality.
+
+---
+
+## ✨ Features
+
+- 🔐 **Secure User Authentication**  
+  Allows users to register and login based on their role – **Admin**,  **Player**.
+
+- 🛠️ **Admin Dashboard**  
+  Admins can:
+  - Add/manage players
+  - Update match results
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend  | Backend | Database |
+|-----------|---------|----------|
+| HTML      | PHP     | MySQL    |
+| CSS       |         |          |
+| JavaScript |        |          |
+
+---
+
+
